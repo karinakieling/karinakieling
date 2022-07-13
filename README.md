@@ -1,4 +1,4 @@
-### Hi there, how you doing? 👋
+### Hi there, how you doin'? 👋
 
 - 🔭 Name: karina kieling
 - 😄 Pronouns: she/her
