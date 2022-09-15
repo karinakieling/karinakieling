@@ -1,9 +1,5 @@
 ### Hi there, how you doin'? 👋
 
-- 🔭 Name: karina kieling
-- 😄 Pronouns: she/her
-- 🌎 From: brazil
-
 <div align="center">
   <a href="https://github.com/karinakieling">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karinakieling&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
