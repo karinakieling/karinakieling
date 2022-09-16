@@ -1,4 +1,4 @@
-### Hi there, how you doin'? 👋
+### hi there, how you doin'? 
 
 <div>
   <a href="https://github.com/karinakieling">
